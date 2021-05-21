@@ -1,7 +1,10 @@
 # Dashboard_darkmode_UI
-
+<br>
+<br>
 # Dashoard_in_Darkmode_Wireframe_Mockup
 
+<br>
+<br>
 ## Dashoard Wireframe Image Output
 <br>
 <br>
