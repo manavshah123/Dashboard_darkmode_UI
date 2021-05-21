@@ -1,7 +1,5 @@
 # Dashboard_darkmode_UI
 
-# Dashoard_in_Darkmode_Wireframe_Mockup
-
 <br>
 <br>
 
